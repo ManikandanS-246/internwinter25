@@ -1,0 +1,24 @@
+REACTSHOW TO WORK WITH THE REACT 
+*Install the library,if you want install directly from the server
+1.create a react app.
+2.vite
+e
+
+👉 Install Node.js
+step1:install it .
+
+Step 2: Create Project
+npx create-react-app myapp
+
+Step 3: Run Project
+cd myapp
+npm start
+1.create react. it install slow
+*vite - it install fast
+2.click on 'y' to create app
+3.type of tour Project
+4.selecting type of project(framework)
+5.variant
+JS+SWC
+6.to install dependency
+
